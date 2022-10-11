@@ -1,10 +1,10 @@
 # File-downloader
 The software help us to automate the downloading process.
 
-## Table of content:
-_ Requirements <br />
-_ Description
-_ Purpose of the project
+## Table of content: <br />
+* Requirements <br />
+* Description <br />
+* Purpose of the project <br />
 
 
 ## Requirements
